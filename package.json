@@ -2,7 +2,7 @@
   "name": "file-last-modified-date-time",
   "displayName": "File Last Modified Date and Time",
   "description": "Display the file's last modified date and time in the status bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "urosevic",
   "pricing": "Free",
   "engines": {
@@ -345,7 +345,7 @@
             "Chinese"
           ]
         },
-        "file-last-modified.dateTimeFormat": {
+        "file-last-modified-date-time.dateTimeFormat": {
           "type": "string",
           "default": "MM/DD/YYYY h:m:s a",
           "description": "Define the format for the date and time display."
